@@ -15,8 +15,7 @@ clear
 
 cd /sdcard
 sleep 0.01
-echo "\033[32;1m kode Script {580821}""
-sleep 0,01
+echo "\033[32;1m kode Script {580821}"
 echo "Masukkan Kode Scriptnya" #tulisankeluar
 read p;
 sleep 1
