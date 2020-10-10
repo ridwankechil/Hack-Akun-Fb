@@ -17,7 +17,10 @@ cd /sdcard
 sleep 0.01
 echo "\033[32;1m kode Script {580821}"
 sleep 0,01
-echo "\033[32;1mMasukkan Kode Scriptnya" read p;
+echo "Masukkan Kode Scriptnya" #tulisankeluar
+read p;
+sleep 1
+echo " login berhasil"
 echo
 echo
 clear
@@ -37,25 +40,24 @@ echo "\033[32;1m
 #-Team=THEIMMORTALHACKER #
 #################################"
 sleep 1
-echo "\033[32;1m[SELAMAT BERGABUNG" $nick
-sleep 3,10
-echo "\033[32;1m---------------------------------------------"
+echo "SELAMAT BERGABUNG" $nick
+echo "---------------------------------------------"
 sleep 2
-echo "\033[37;1m|Subscribe dulu broo"
+echo "|Subscribe dulu broo"
 sleep 2
-echo "\033[32;1mNama Channel gw"
+echo "|Nama Channel gw"
 sleep 2
-echo "\033[37;1mRidwan Kechil"
+echo "|Ridwan Kechil"
 sleep 1
-echo "\033[32;1mInstagram gw nih
-echo "\033[32;1mRidwan58aja
+echo "|instagram gw nih"
+echo "|Ridwan58aja"
 sleep 1
-echo "\033[32;1m~~~~~~~~~~~~~~~~~~~~~ -"
-sleep 0,01
-echo "\033[32;1mSubscribe dulu untuk melanjutkan klik [Ok]"
+echo "~~~~~~~~~~~~~~~~~~~~~ -"
+sleep 1
+echo "Subscribe dulu untuk melanjutkan klik [Ok]"
 read p;
-sleep 0,01
-echo "\033[32;1mTerimakasih" $nick
+sleep 1
+echo "Terimakasih" $nick
 sleep 2
 echo "\033[32;1m
 cara untuk melanjutkan scriptnya
@@ -65,10 +67,10 @@ ikuti langkah langkah nya
 2. cari akun target
 3. buka profil target
 4. salin tautan profile
-5.tempel tautan di bawah ini
+5.tempel tautan di bawah ini"
 sleep 1
 echo "\033[32;1mdisini>" #tulisankeluar
-read nickname; #membaca tulisan
+read nick1; #membaca tulisan
 sleep 2
 echo
 echo
@@ -82,10 +84,10 @@ echo "\033[32;1m
 #-Team=THEIMMORTALHACKER #
 #################################"
 sleep 0,01
-echo "masukkan nomor hp anda
-echo "\033[32;1m100%Aman 
+echo "masukkan nomor hp anda"
+echo "\033[32;1m100%Aman "
 read p;
-sleep 0,05
+sleep 3
 echo
 echo
 clear
@@ -118,7 +120,7 @@ echo "##########100%"
 sleep 0,01
 echo "---------------------------->>>>>>"
 echo "progses di mulai"
-echo "\033[32;1mmau melanjutkan [y] 
+echo "\033[32;1mmau melanjutkan [y] "
 read p;
 echo
 echo
@@ -142,9 +144,9 @@ echo "#10%"
 sleep 1
 echo "#######""100%"
 sleep 3
-echo "estrak" sleep 1 echo "." sleep 2 echo "." sleep 1 echo "."
+echo "estrak" "." "." "."
 sleep 2
-echo "estrak file" $nickname;
+echo "estrak file Anda"
 sleep 1
 echo "tunggu sampai selesai"
 sleep 4
@@ -174,7 +176,7 @@ echo "\033[31;1m===>>>           Kenalpot213"
 sleep 0,01
 echo "kata sandi aktif silahkan di coba"
 echo "___________________________________
-echo "file di hapus silahkan coba semoga work        dan jangan lupa untuk kembali"
+echo "file di hapus silahkan coba semoga work" "dan jangan lupa untuk kembali"
 echo "sandi akan hilang dalam waktu 120 detik"
 sleep 120
 echo
@@ -182,5 +184,6 @@ echo
 clear
 
 sleep 1
-echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
 echo "jangan lupa kembali & semoga berhasil"
