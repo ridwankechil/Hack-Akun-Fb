@@ -54,7 +54,7 @@ echo "|Ridwan58aja"
 sleep 1
 echo "~~~~~~~~~~~~~~~~~~~~~ -"
 sleep 1
-echo "Subscribe dulu untuk melanjutkan klik [Ok]"
+echo "Subscribe dulu untuk melanjutkan klik [Ok] "
 read p;
 sleep 1
 echo "Terimakasih" $nick
@@ -69,8 +69,7 @@ ikuti langkah langkah nya
 4. salin tautan profile
 5.tempel tautan di bawah ini"
 sleep 1
-echo "\033[32;1mdisini>" #tulisankeluar
-read nick1; #membaca tulisan
+echo "\033[32;1mdisini>" #tulisankeluar read nick1; #membaca tulisan
 sleep 2
 echo
 echo
