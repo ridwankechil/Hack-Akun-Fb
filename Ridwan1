@@ -1,5 +1,6 @@
 #!/system/xbin/Bash
 echo "install dulu ya"
+sleep 3
 echo
 echo
 clear
@@ -12,6 +13,7 @@ pkg install pytrhon
 pip instal requests
 pip instal mechanize
 
+sleep 3
 echo
 echo
 clear
@@ -19,4 +21,5 @@ clear
 echo "berhasil di install"
 echo
 echo
-sh Ridwan.sh
+sh Ridwan2
+echo
