@@ -7,18 +7,44 @@ clear
 
 echo
 pkg update && pkg upgrade
-echo
-pkg install git
-echo
-pkg install bash
-echo
-pkg install pytrhon
-echo
-pip instal requests
-echo
-pip instal mechanize
 
 sleep 3
+echo
+echo
+clear
+
+sleep 1
+echo "install"
+sleep 4
+echo "_0%"
+sleep 1
+echo "##_20%"
+sleep 2
+echo "####_40%"
+sleep 3
+echo "######_60%"
+sleep 4
+echo "########_80%"
+sleep 8
+echo "##########_100%"
+sleep 4
+echo "____________________________________"
+sleep 1
+echo "tunggu sampai selesai"
+sleep 4
+echo "_0%"
+sleep 1
+echo "##_20%"
+sleep 2
+echo "####_40%"
+sleep 3
+echo "######_60%"
+sleep 4
+echo "########_80%"
+sleep 8
+echo "##########_100%"
+sleep 4
+echo "____________________________________"
 echo
 echo
 clear
