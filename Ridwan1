@@ -7,10 +7,15 @@ clear
 
 echo
 pkg update && pkg upgrade
+echo
 pkg install git
+echo
 pkg install bash
+echo
 pkg install pytrhon
+echo
 pip instal requests
+echo
 pip instal mechanize
 
 sleep 3
