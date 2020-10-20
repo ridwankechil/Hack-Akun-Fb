@@ -15,9 +15,9 @@ clear
 
 cd /sdcard
 sleep 0.01
-echo "\033[32;1m Mau Recode.. silahkan"
-echo "Sekamat Datang" 
-
+echo "\033[32;1m Subscribe dulu"
+echo "membuka YouTube" 
+termux-open https://www.youtube.com/channel/UCTMBlJoMW9jaWyiv8oZsjKw
 sleep 1
 echo " login berhasil "
 echo
