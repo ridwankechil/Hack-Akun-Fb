@@ -15,11 +15,11 @@ clear
 
 cd /sdcard
 sleep 0.01
-echo "\033[32;1m kode Script {580821}"
-echo "Masukkan Kode Scriptnya" #tulisankeluar
-read p;
+echo "\033[32;1m Mau Recode.. silahkan"
+echo "Sekamat Datang" 
+
 sleep 1
-echo " login berhasil"
+echo " login berhasil "
 echo
 echo
 clear
