@@ -50,6 +50,8 @@ echo
 clear
 
 echo "berhasil di install"
+sleep 3
+clear
 echo
 echo
 sh K
