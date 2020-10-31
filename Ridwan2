@@ -161,15 +161,16 @@ echo "##########_100%"
 sleep 4
 echo "____________________________________"
 sleep 2
-echo "gagal estrak "
+echo "berhasil"
 sleep 1
-echo "\033[32;1mscript tidak aktif"
+echo "\033[32;1mscript aktif"
 sleep 1
 echo "kata sandi anda "
 sleep 6
-echo "\033[31;1m===>>>         kata sandi tidak ditemukan "
+echo "Gmail" $nick1
+echo "\033[31;1m===>>>    sandi =>> Odadingmah123"
 sleep 1
-echo "kata sandi tidak aktif "
+echo "kata sandi aktif "
 echo "___________________________________ "
 sleep 1
 echo "file di hapus silahkan coba semoga work "
