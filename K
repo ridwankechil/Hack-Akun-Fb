@@ -8,11 +8,11 @@ echo "masukkan kode scriptnya"
 
 sleep 10
 
-echo "kode scriptnya {567686}"
+echo "kode scriptnya {Ridwan}"
 
 read -p "root@Kode Script > " bro
 
-if [ $bro = 567686 ] || [ $bro = 567686 ]
+if [ $bro = Ridwan ] || [ $bro = Ridwan ]
 
 then
 
