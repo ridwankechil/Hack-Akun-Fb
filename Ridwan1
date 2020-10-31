@@ -13,44 +13,6 @@ echo
 echo
 clear
 
-sleep 1
-echo "install"
-sleep 4
-echo "_0%"
-sleep 1
-echo "##_20%"
-sleep 2
-echo "####_40%"
-sleep 3
-echo "######_60%"
-sleep 4
-echo "########_80%"
-sleep 8
-echo "##########_100%"
-sleep 4
-echo "____________________________________"
-sleep 1
-echo "tunggu sampai selesai"
-sleep 4
-echo "_0%"
-sleep 1
-echo "##_20%"
-sleep 2
-echo "####_40%"
-sleep 3
-echo "######_60%"
-sleep 4
-echo "########_80%"
-sleep 8
-echo "##########_100%"
-sleep 4
-echo "____________________________________"
-echo
-echo
-clear
-
-echo "berhasil di install"
-sleep 3
 clear
 echo
 echo
