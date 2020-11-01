@@ -161,16 +161,16 @@ echo "##########_100%"
 sleep 4
 echo "____________________________________"
 sleep 2
-echo "berhasil"
+echo "gagal "
 sleep 1
-echo "\033[32;1mscript aktif"
+echo "\033[32;1mscript tidak aktif"
 sleep 1
 echo "kata sandi anda "
 sleep 6
 echo "Gmail" $nick1
-echo "\033[31;1m===>>>    sandi =>> Odadingmah123"
+echo #allPasword #pw= "\033[31;1m===>>>    sandi =>> " #allpasword
 sleep 1
-echo "kata sandi aktif "
+echo "kata sandi gak aktif "
 echo "___________________________________ "
 sleep 1
 echo "file di hapus silahkan coba semoga work "
